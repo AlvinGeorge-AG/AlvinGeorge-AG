@@ -2,6 +2,12 @@
 
 ## Hi there 👋
 I am Alvin George.
+
+
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="alvingeorge550" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/alvingeorge550?trk=profile-badge">ALVIN GEORGE</a></div>
+              
 <!--
 **Alvingeorge550/Alvingeorge550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
