@@ -1,3 +1,5 @@
+![logo](https://github.com/Alvingeorge550/Alvingeorge550/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner_20240910_214041_0000.png)
+
 ## Hi there 👋
 I am Alvin George.
 <!--
