@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm ALVIN GEORGE</h1>
-<h3 align="center">A passionate developer from India 🇮🇳 , 
+<h3 align="center">A passionate developer from India 🇮🇳 , <br>
   Currently pursuing my Bachelor Of Technology in Computer Science Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvingeorge550&label=Profile%20views&color=0e75b6&style=flat" alt="alvingeorge550" /> </p>
