@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alvingeorge550](https://github.com/Alvingeorge550)
+- 👨‍💻 All of my projects are available at [https://github.com/Alvingeorge550](https://github.com/alvingeorge-ag)
 
 - 💬 Ask me about **Python 🔆**
 
