@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently Studying @ [MODEL ENGINEERING COLLEGE](https://www.linkedin.com/school/model-engineering-college/)
 
-- 🌱 I’m currently learning **JavaScript , Python**
+- 🌱 I’m currently learning **Java , C , DSA , FLASK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alvingeorge550](https://github.com/AlvinGeorge-AG)
 
-- 💬 Ask me about **Python 🔆**
+- 💬 Ask me about **Python Java C FLASK 🔆**
 
 - 📫 How to reach me **[Meet Me On Click 😊](https://AlvinGeorge-AG.github.io/MYWEB/)**
 
