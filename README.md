@@ -35,8 +35,8 @@
 
 | Language | Frameworks & Tools | Database |   Frontend    |
 |----------|--------------------|----------|---------------|
-| `Java`   | Spring Boot, Flask | MongoDB  | HTML, CSS, JS |
-| `Python` | REST APIs          |          | Thymeleaf     |
+| `Java`   | Spring Boot        | MongoDB  | HTML, CSS, JS |
+| `Python` | REST APIs, Flask   |          | Thymeleaf     |
 | `C`      | DSA                |          | Jinja2        |
 
 ---
