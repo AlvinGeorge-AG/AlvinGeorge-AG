@@ -33,8 +33,8 @@
 
 ### 🛠️ Tech Stack
 
-| Language | Frameworks & Tools | Database | Frontend |
-|----------|--------------------|----------|----------|
+| Language | Frameworks & Tools | Database |   Frontend    |
+|----------|--------------------|----------|---------------|
 | `Java`   | Spring Boot, Flask | MongoDB  | HTML, CSS, JS |
 | `Python` | REST APIs          |          | Thymeleaf     |
 | `C`      | DSA                |          | Jinja2        |
@@ -62,7 +62,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/AlvinGeorge-AG/AlvinGeorge-AG/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Graph" />
+ <img src="https://raw.githubusercontent.com/AlvinGeorge-AG/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Graph" />
 </p>
 
 
