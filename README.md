@@ -62,7 +62,9 @@
 ### 📈 Contribution Graph
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/AlvinGeorge-AG/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Graph" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinGeorge-AG&theme=radical" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&layout=compact&theme=radical" alt="Top Languages" />
+
 </p>
 
 
