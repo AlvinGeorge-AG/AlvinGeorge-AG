@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvingeorge550&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
 ---
 
 ### 🛠️ Tech Stack
@@ -61,8 +62,9 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/graph?username=Alvingeorge550&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-contributions.vercel.app/api/v1/Alvingeorge550?format=svg" alt="Contribution Graph" />
 </p>
+
 
 ---
 
