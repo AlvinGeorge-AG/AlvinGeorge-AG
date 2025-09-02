@@ -23,9 +23,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinGeorge-AG&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinGeorge-AG&theme=radical" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&layout=compact&theme=radical" alt="Top Languages" /><br>
 </p>
 
 
