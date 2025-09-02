@@ -54,8 +54,7 @@
 ### 📁 Featured Projects
 
 - 🩺 **Digital Patient Card** – Spring Boot + MongoDB + Thymeleaf
-- 🔐 **Login & Dashboard UI** – Dark theme, responsive design
-- 🧪 **Form Integration** – Frontend to backend with JSON & @RequestBody
+- 🔐 **GadNEXUS** – A Simple Blog Web Application to know about the latest Gadgets 
 
 ---
 
