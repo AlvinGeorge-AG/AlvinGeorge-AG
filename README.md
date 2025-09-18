@@ -16,7 +16,7 @@
 - 🌱 Learning: `Java`, `C`, `DSA`, `Flask`, `Spring Boot`, `MongoDB`
 - 💬 Ask me about: `Python`, `Java`, `C`, `Flask`, `Spring Boot`
 - 📫 Portfolio: [Visit My Web Profile](https://AlvinGeorge-AG.github.io/MYWEB/)
-- ⚡ Fun Fact: *I believe in progress over perfection 🤗*
+- ⚡ Fun Fact: *I believe in perfection over progress 🤗*
 
 ---
 
@@ -54,8 +54,9 @@
 
 ### 📁 Featured Projects
 
-- 🩺 **Digital Patient Card** – Spring Boot + MongoDB + Thymeleaf
-- 🔐 **GadNEXUS** – A Simple Blog Web Application to know about the latest Gadgets 
+- 🩺 **Digital Patient Card** – A Full Stack Patient Record Management Application 
+- 🔐 **GadNEXUS** – A Simple Blog Web Application to know about the latest Gadgets
+- 💡 **Eco-app**-A Simple Ecommerce Application bulid with React
 
 ---
 
