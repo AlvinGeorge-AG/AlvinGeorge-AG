@@ -33,11 +33,12 @@
 
 ### 🛠️ Tech Stack
 
-| Language | Frameworks & Tools | Database |   Frontend    |
-|----------|--------------------|----------|---------------|
-| `Java`   | Spring Boot        | MongoDB  | HTML, CSS, JS |
-| `Python` | REST APIs, Flask   |          | Thymeleaf     |
-| `C`      | DSA                |          | Jinja2        |
+| Languages         | Frameworks & Tools | Database |   Frontend    |     Backend  |
+|-------------------|--------------------|----------|---------------|--------------|
+| `Java`            | Git                | MongoDB  | HTML, CSS, JS | SpringBoot   |
+| `Python`          | REST APIs          |          | Thymeleaf     | Flask        |
+| `C`               | Github             |          | Jinja2        |              |
+| `JavaScript`      | Vercel,Render      |          | React         |              |
 
 ---
 
@@ -67,6 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </p>
 
 
@@ -75,8 +77,8 @@
 ### 🧩 Fun Extras
 
 - 🧠 Learning by doing: I love debugging and refining code until it clicks.
-- 🎨 UI matters: I care about clean, modern design and consistent themes.
 - 🛠️ Always improving: I log, test, and iterate until it works.
+- 🛠️ Weakness Backend!!
 
 ---
 
