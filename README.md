@@ -13,8 +13,8 @@
 
 - 🎓 B.Tech in Computer Science @ [Model Engineering College](https://www.linkedin.com/school/model-engineering-college/)
 - 🔭 Currently building **Digital Patient Card** with Spring Boot + MongoDB
-- 🌱 Learning: `Java`, `C`, `DSA`, `Flask`, `Spring Boot`, `MongoDB`
-- 💬 Ask me about: `Python`, `Java`, `C`, `Flask`, `Spring Boot`
+- 🌱 Learning: `Java`, `C`, `DSA`, `Flask`, `Spring Boot`, `MongoDB` ,`React`
+- 💬 Ask me about: `Python`, `Java`, `C`, `Flask`, `Spring Boot`,`React`
 - 📫 Portfolio: [Visit My Web Profile](https://AlvinGeorge-AG.github.io/MYWEB/)
 - ⚡ Fun Fact: *I believe in perfection over progress 🤗*
 
