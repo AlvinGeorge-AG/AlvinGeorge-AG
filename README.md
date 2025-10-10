@@ -58,7 +58,7 @@
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlvinGeorge-AG)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlvinGeorgeAG)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Connect With Me
 
