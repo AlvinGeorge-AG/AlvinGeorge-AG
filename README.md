@@ -41,7 +41,7 @@
 | `JavaScript`      | Vercel,Render      |          | React         |              |
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend&bg_color=0000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend&bg_color=0000&text_color=1AA6ED)
 
 
 <picture>
