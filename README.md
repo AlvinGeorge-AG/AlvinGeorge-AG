@@ -41,8 +41,7 @@
 | `JavaScript`      | Vercel,Render      |          | React         |              |
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,anuraghazra.github.io)
 
 ### 🌐 Connect With Me
 
