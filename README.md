@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinGeorge-AG&theme=radical" alt="GitHub Streak" /><br>
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend&bg_color=0000&text_color=1AA6ED)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend&bg_color=0000&text_color=1AA6ED)
 </p>
 
 
