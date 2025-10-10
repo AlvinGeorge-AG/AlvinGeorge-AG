@@ -42,6 +42,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌐 Connect With Me
 
 <p align="left">
