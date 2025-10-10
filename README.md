@@ -41,14 +41,10 @@
 | `JavaScript`      | Vercel,Render      |          | React         |              |
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=QuoteAPI_backend,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend)
 
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
