@@ -41,7 +41,7 @@
 | `JavaScript`      | Vercel,Render      |          | React         |              |
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend&bg_color=black)
 
 
 <picture>
@@ -49,9 +49,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true" />
 </picture>
-
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlvinGeorgeAG)](https://github.com/anuraghazra/github-readme-stats)
