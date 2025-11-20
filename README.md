@@ -36,12 +36,12 @@
 |-------------------|--------------------|----------|---------------|--------------|
 | `Java`            | Git                | MongoDB  | HTML, CSS, JS | SpringBoot   |
 | `Python`          | REST APIs          |          | Thymeleaf     | Flask        |
-| `C`               | Github             |          | Jinja2        |              |
+| `C`               | Github             |          | Jinja2        | FastAPI             |
 | `JavaScript`      | Vercel,Render      |          | React         |              |
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&exclude_repo=GadNEXUS,QuoteAPI_backend&bg_color=0000&text_color=1AA6ED)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&bg_color=0000&text_color=1AA6ED)
 
 
 <picture>
@@ -51,8 +51,6 @@
   />
 </picture>
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlvinGeorgeAG)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Connect With Me
 
