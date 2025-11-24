@@ -6,7 +6,7 @@
 <!-- Intro Section -->
 <h1 align="center">👨‍💻 Full Stack Developer & Java Enthusiast</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=435&lines=ALVIN+GEORGE;FULL+STACK+DEV;JAVA+SPRING+BOOT;PYTHON+FLASK+%2F+FASTAPI;REACT" alt="Typing SVG" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=435&lines=ALVIN+GEORGE;FULL+STACK+DEV;JAVA+SPRING+BOOT;PYTHON+FLASK+%2F+FASTAPI;REACT" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/AlvinGeorge-AG">
