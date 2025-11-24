@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+![Alt Text](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ### 🧠 About Me
 
 - 🎓 B.Tech in Computer Science @ [Model Engineering College](https://www.linkedin.com/school/model-engineering-college/)
