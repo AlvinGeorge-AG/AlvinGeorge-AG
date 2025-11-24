@@ -1,5 +1,5 @@
-![Banner](https://github.com/Alvingeorge550/Alvingeorge550/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner_20240910_214041_0000.png)
-(https://github.com/AlvinGeorge-AG/AlvinGeorge-AG/blob/main/github-header-banner.png)
+![Banner](https://github.com/AlvinGeorge-AG/AlvinGeorge-AG/blob/main/github-header-banner.png)
+()
 
 <h1 align="center">Hi 👋, I'm Alvin George</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | 💻 Java & Spring Boot Enthusiast | 🇮🇳 Based in India</h3>
