@@ -33,7 +33,7 @@ I am a **B.Tech Computer Science** graduate from **Model Engineering College**, 
 - 🔭 I’m currently working on **Digital Patient Card** (Spring Boot + MongoDB).
 - 🌱 I’m currently learning **Advanced DSA** and **System Design**.
 - 💬 Ask me about **Java, Python, Spring Boot, and React**.
-- 📫 Reach me at: **[Your Email Here]**
+- 📫 Reach me at: **alvingeorge_@outlook.com**
 - ⚡ **Fun Fact:** I built a [GitHub Profile Analyzer](https://github-profile-analyzer-frontend.vercel.app/) just to see how cool your profile is!
 
 <br/>
