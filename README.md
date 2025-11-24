@@ -6,12 +6,7 @@
 <!-- Intro Section -->
 <h1 align="center">👨‍💻 Full Stack Developer & Java Enthusiast</h1>
 
-<div align="center">
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=ALVIN+GEORGE; FULL+STACK+DEV;JAVA+%2F+SPRING+BOOT;FLASK +%2F +FASTAPI;REACT" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=true&width=435&lines=ALVIN+GEORGE;FULL+STACK+DEV;JAVA+SPRING+BOOT;PYTHON+FLASK+%2F+FASTAPI;REACT)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/AlvinGeorge-AG">
