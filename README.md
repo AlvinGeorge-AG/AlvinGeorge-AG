@@ -6,7 +6,7 @@
 <!-- Intro Section -->
 <h1 align="center">👨‍💻 Full Stack Developer & Java Enthusiast</h1>
 <h1>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=435&lines=ALVIN+GEORGE;FULL+STACK+DEV;JAVA+SPRING+BOOT;PYTHON+FLASK+%2F+FASTAPI;REACT" alt="Typing SVG" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=435&lines=ALVIN+GEORGE;FULL+STACK+DEV;JAVA+SPRING+BOOT;PYTHON+FLASK+%2F+FASTAPI;REACT" alt="Typing SVG" />
 </h1>
 
 <p align="center">
