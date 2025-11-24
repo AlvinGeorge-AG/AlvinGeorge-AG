@@ -1,101 +1,95 @@
-![Banner](https://github.com/AlvinGeorge-AG/AlvinGeorge-AG/blob/main/github-header-banner.png)
-()
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I%27m%20Alvin%20George%20%F0%9F%91%8B&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Alvin George</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | 💻 Java & Spring Boot Enthusiast | 🇮🇳 Based in India</h3>
+<!-- Intro Section -->
+<h1 align="center">👨‍💻 Full Stack Developer & Java Enthusiast</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alvingeorge550&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-![Alt Text](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-### 🧠 About Me
-
-- 🎓 B.Tech in Computer Science @ [Model Engineering College](https://www.linkedin.com/school/model-engineering-college/)
-- 🔭 Currently building **Digital Patient Card** with Spring Boot + MongoDB
-- 🌱 Learning: `Java`, `C`, `DSA`, `Flask`, `Spring Boot`, `MongoDB` ,`React`
-- 💬 Ask me about: `Python`, `Java`, `C`, `Flask`, `Spring Boot`,`React`
-- 📫 Portfolio: [Visit My Web Profile](https://AlvinGeorge-AG.github.io/MYWEB/)
-- ⚡ Fun Fact: *I believe in perfection over progress 🤗*
-
----
-
-### 📊 GitHub Analytics
+<div align="center">
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=600&lines=ALVIN+GEORGE; FULL+STACK+DEV;JAVA+%2F+SPRING+BOOT;FLASK +%2F +FASTAPI;REACT" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinGeorge-AG&theme=radical" alt="GitHub Streak" /><br>
-</p>
-
-
----
-
-### 🛠️ Tech Stack
-
-| Languages         | Frameworks & Tools | Database |   Frontend    |     Backend  |
-|-------------------|--------------------|----------|---------------|--------------|
-| `Java`            | Git                | MongoDB  | HTML, CSS, JS | SpringBoot   |
-| `Python`          | REST APIs          |          | Thymeleaf     | Flask        |
-| `C`               | Github             |          | Jinja2        | FastAPI             |
-| `JavaScript`      | Vercel,Render      |          | React         |              |
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&bg_color=0000&text_color=1AA6ED)
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-</picture>
-
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/alvingeorge550" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  <a href="https://github.com/AlvinGeorge-AG">
+    <img src="https://komarev.com/ghpvc/?username=Alvingeorge550&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/AlvinGeorge-AG">
+    <img src="https://img.shields.io/github/followers/AlvinGeorge-AG?style=for-the-badge&color=green" alt="Followers"/>
+  </a>
+  <a href="https://linkedin.com/in/alvingeorge550">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
----
+<br/>
 
-### 📁 Featured Projects
+![Banner](https://github.com/AlvinGeorge-AG/AlvinGeorge-AG/blob/main/github-header-banner.png)
 
-- 🩺 **Digital Patient Card** – A Full Stack Patient Record Management Application 
-- 🔐 **GadNEXUS** – A Simple Blog Web Application to know about the latest Gadgets
-- 💡 **Eco-app**-A Simple Ecommerce Application bulid with React
+### 🚀 About Me
+> *"Perfection over progress."*
 
----
+I am a **B.Tech Computer Science** graduate from **Model Engineering College**, India. I specialize in building scalable backend systems using  **Java Spring Boot** / **Fast API** and creating dynamic frontends with **React**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="springboot" width="40" height="40"/>
-</p>
+- 🔭 I’m currently working on **Digital Patient Card** (Spring Boot + MongoDB).
+- 🌱 I’m currently learning **Advanced DSA** and **System Design**.
+- 💬 Ask me about **Java, Python, Spring Boot, and React**.
+- 📫 Reach me at: **[Your Email Here]**
+- ⚡ **Fun Fact:** I built a [GitHub Profile Analyzer](https://github-profile-analyzer-frontend.vercel.app/) just to see how cool your profile is!
+
+<br/>
 
 
----
 
-### 🧩 Fun Extras
+<!-- Tech Stack Section -->
+### 🛠️ Tech Stack
+| **Category** | **Technologies** |
+|:---:|:---|
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![c](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) |
+| **Backend** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) |
 
-- 🧠 Learning by doing: I love debugging and refining code until it clicks.
-- 🛠️ Always improving: I log, test, and iterate until it works.
-- 🛠️ Weakness Backend!!
+<br/>
 
----
+<!-- GitHub Stats Section -->
+### 📊 GitHub Analytics
+<div align="center">
+  <a href="https://github.com/AlvinGeorge-AG">
+  <a href="https://github.com/AlvinGeorge-AG">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/AlvinGeorge-AG">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  </a>
+  </a>
+</div>
+<br clear="both"/>
+<br/>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinGeorge-AG&theme=react&background=0D1117&border=30363D&ring=238636&fire=238636&currStreakLabel=58A6FF" alt="Streak" />
+</div>
 
----
+<br/>
 
+<!-- Featured Projects -->
+### 🏆 Featured Projects
+
+| **Project** | **Description** | **Links** |
+|:---:|:---|:---:|
+| **GitHub Profile Analyzer** | Deep dive into GitHub user statistics. Visualize streaks, and insights. <br>A tool to generate professional README files for repositories instantly. | [🌍 Live](https://github-profile-analyzer-frontend.vercel.app/) |
+| **Digital Patient Card** | 🏥 A comprehensive Full Stack Patient Record Management System. | [💻 Repo](https://github.com/AlvinGeorge-AG/DigitalPatientCardBackend) |
+| **GadNEXUS** | 📱 A blog web application for the latest gadgets and tech news. | [💻 Repo](https://github.com/AlvinGeorge-AG/GadNEXUS) |
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+    <p>Made with ❤️ by <a href="https://github.com/AlvinGeorge-AG">Alvin George</a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00F0FF&height=200&section=footer" width="100%"/>
+</div>
