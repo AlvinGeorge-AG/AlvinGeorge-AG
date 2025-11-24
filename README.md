@@ -5,9 +5,9 @@
 
 <!-- Intro Section -->
 <h1 align="center">👨‍💻 Full Stack Developer & Java Enthusiast</h1>
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=435&lines=ALVIN+GEORGE;FULL+STACK+DEV;JAVA+SPRING+BOOT;PYTHON+FLASK+%2F+FASTAPI;REACT)](https://git.io/typing-svg)
-</p>
+
 <p align="center">
   <a href="https://github.com/AlvinGeorge-AG">
     <img src="https://komarev.com/ghpvc/?username=Alvingeorge550&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
