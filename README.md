@@ -68,12 +68,6 @@ I am a **B.Tech Computer Science** graduate from **Model Engineering College**, 
 <br clear="both"/>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvinGeorge-AG&theme=react&background=0D1117&border=30363D&ring=238636&fire=238636&currStreakLabel=58A6FF" alt="Streak" />
-</div>
-
-<br/>
-
 <!-- Featured Projects -->
 ### 🏆 Featured Projects
 
