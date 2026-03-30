@@ -52,22 +52,14 @@ I am a **B.Tech Computer Science** graduate from **Model Engineering College**, 
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) |
 
 <br/>
-
+---
 <!-- GitHub Stats Section -->
-### 📊 GitHub Analytics
-<div align="center">
-  <a href="https://github.com/AlvinGeorge-AG">
-  <a href="https://github.com/AlvinGeorge-AG">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/AlvinGeorge-AG">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  </a>
-  </a>
-</div>
-<br clear="both"/>
-<br/>
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=top-repos)
 
+---
 <!-- Featured Projects -->
 ### 🏆 Featured Projects
 
