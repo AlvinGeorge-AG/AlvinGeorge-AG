@@ -23,7 +23,7 @@
 
 <br/>
 
----
+![Banner](https://raw.githubusercontent.com/AlvinGeorge-AG/AlvinGeorge-AG/main/github-header-banner.png)
 
 ### 🚀 About Me
 > *"Perfection over progress."*
@@ -61,27 +61,10 @@ I am a **B.Tech Computer Science** student at **Model Engineering College**, Ind
 <!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AlvinGeorge-AG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlvinGeorge-AG&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=top-repos)
 
 ---
 
