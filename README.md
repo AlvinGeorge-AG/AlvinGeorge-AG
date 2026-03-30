@@ -61,10 +61,10 @@ I am a **B.Tech Computer Science** student at **Model Engineering College**, Ind
 <!-- GitHub Stats Section -->
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&theme=tokyonight)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&theme=dracula)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=languages&theme=dracula)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=contributions&theme=github)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=top-repos)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=contributions&theme=dracula)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=top-repos&theme=dracula)
 
 ---
 
