@@ -4,14 +4,14 @@
 </div>
 
 <!-- Intro Section -->
-<h1 align="center">👨‍💻 Full Stack Developer & Java Enthusiast</h1>
-<h1>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=435&lines=ALVIN+GEORGE;FULL+STACK+DEV;JAVA+SPRING+BOOT;PYTHON+FLASK+%2F+FASTAPI;REACT" alt="Typing SVG" />
+<h1 align="center">👨‍💻 Backend & DevOps Engineer</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=100&center=true&width=435&lines=ALVIN+GEORGE;BACKEND+DEVELOPER;DEVOPS+ENGINEER;PYTHON+FASTAPI;GO+%2F+DOCKER+%2F+TERRAFORM" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/AlvinGeorge-AG">
-    <img src="https://komarev.com/ghpvc/?username=Alvingeorge550&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AlvinGeorge-AG&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile Views" />
   </a>
   <a href="https://github.com/AlvinGeorge-AG">
     <img src="https://img.shields.io/github/followers/AlvinGeorge-AG?style=for-the-badge&color=green" alt="Followers"/>
@@ -23,53 +23,82 @@
 
 <br/>
 
-![Banner](https://github.com/AlvinGeorge-AG/AlvinGeorge-AG/blob/main/github-header-banner.png)
+---
 
 ### 🚀 About Me
 > *"Perfection over progress."*
 
-I am a **B.Tech Computer Science** graduate from **Model Engineering College**, India. I specialize in building scalable backend systems using  **Java Spring Boot** / **Fast API** and creating dynamic frontends with **React**.
+I am a **B.Tech Computer Science** student at **Model Engineering College**, India (graduating 2028). I specialize in building scalable backend systems using **FastAPI** / **Go**, and I'm actively pursuing **DevOps & Cloud Engineering**.
 
-- 🔭 I’m currently working on **Digital Patient Card** (Spring Boot + MongoDB).
-- 🌱 I’m currently learning **Advanced DSA** and **System Design**.
-- 💬 Ask me about **Java, Python, Spring Boot, and React**.
+- 🔭 I'm currently building **[Odin](https://github.com/AlvinGeorge-AG/odin)** — a Linux CLI toolkit in Go (Cobra framework).
+- 🌱 I'm currently learning **Docker · Terraform · Ansible · AWS**.
+- 💼 Backend Developer Intern @ **MarkX** — AI-powered Instagram growth analytics.
+- 💬 Ask me about **Python, Go, FastAPI, Docker, and Linux**.
 - 📫 Reach me at: **alvingeorge_@outlook.com**
 - ⚡ **Fun Fact:** I built a [GitHub Profile Analyzer](https://github-profile-analyzer-frontend.vercel.app/) just to see how cool your profile is!
-- ⚡ Take a Look at my Portfolio : [HERE](https://alvingeorge-myportfolio.vercel.app/)
+- 🌐 Portfolio: [alvingeorge-myportfolio.vercel.app](https://alvingeorge-myportfolio.vercel.app/)
 
 <br/>
 
-
+---
 
 <!-- Tech Stack Section -->
 ### 🛠️ Tech Stack
+
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![c](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) |
-| **Backend** | ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) |
 
 <br/>
----
-<!-- GitHub Stats Section -->
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AlvinGeorge-AG&type=top-repos)
 
 ---
+
+<!-- GitHub Stats Section -->
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlvinGeorge-AG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinGeorge-AG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AlvinGeorge-AG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlvinGeorge-AG&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+---
+
 <!-- Featured Projects -->
 ### 🏆 Featured Projects
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
-| **GitHub Profile Analyzer** | Deep dive into GitHub user statistics. Visualize streaks, and insights. <br>A tool to generate professional README files for repositories instantly. | [🌍 Live](https://github-profile-analyzer-frontend.vercel.app/) |
-| **Digital Patient Card** | 🏥 A comprehensive Full Stack Patient Record Management System. | [💻 Repo](https://github.com/AlvinGeorge-AG/DigitalPatientCardBackend) |
+| **Odin** | ⚙️ A Linux CLI toolkit in Go (Cobra) — abstracts complex commands into simple subcommands for port, process, system, cleanup & security management. | [💻 Repo](https://github.com/AlvinGeorge-AG/odin) |
+| **MarkX Strategic Engine** | 📊 AI-powered Instagram growth audit tool. FastAPI backend with LangChain + Groq (Llama 3.3 70B), Apify scraping, React frontend. | [🌍 Live](https://markxweb.com) |
+| **GitHub Profile Analyzer** | 🔍 Deep dive into GitHub user statistics — visualize streaks, insights, and generate professional READMEs. | [🌍 Live](https://github-profile-analyzer-frontend.vercel.app/) |
+| **Digital Patient Card** | 🏥 A full-stack Patient Record Management System. | [💻 Repo](https://github.com/AlvinGeorge-AG/DigitalPatientCardBackend) |
 | **GadNEXUS** | 📱 A blog web application for the latest gadgets and tech news. | [💻 Repo](https://github.com/AlvinGeorge-AG/GadNEXUS) |
 
 <br/>
+
+---
 
 <!-- Footer -->
 <div align="center">
