@@ -35,7 +35,7 @@ I am a **B.Tech Computer Science** student at **Model Engineering College**, Ind
 - 💼 Backend Developer Intern @ **MarkX** — AI-powered Instagram growth analytics.
 - 💬 Ask me about **Python, Go, FastAPI, Docker, and Linux**.
 - 📫 Reach me at: **alvingeorge_@outlook.com**
-- ⚡ **Fun Fact:** I built a [GitHub Profile Analyzer](https://github-profile-analyzer-frontend.vercel.app/) just to see how cool your profile is!
+- ⚡ **Fun Fact:** I built a [Linux Terminal Command](https://github.com/AlvinGeorge-AG/odin) just to make my life easier with LINUX!
 - 🌐 Portfolio: [alvingeorge-myportfolio.vercel.app](https://alvingeorge-myportfolio.vercel.app/)
 
 <br/>
