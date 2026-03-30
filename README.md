@@ -75,7 +75,6 @@ I am a **B.Tech Computer Science** student at **Model Engineering College**, Ind
 |:---:|:---|:---:|
 | **Odin** | ⚙️ A Linux CLI toolkit in Go (Cobra) — abstracts complex commands into simple subcommands for port, process, system, cleanup & security management. | [💻 Repo](https://github.com/AlvinGeorge-AG/odin) |
 | **MarkX Strategic Engine** | 📊 AI-powered Instagram growth audit tool. FastAPI backend with LangChain + Groq (Llama 3.3 70B), Apify scraping, React frontend. | [🌍 Live](https://markxweb.com) |
-| **GitHub Profile Analyzer** | 🔍 Deep dive into GitHub user statistics — visualize streaks, insights, and generate professional READMEs. | [🌍 Live](https://github-profile-analyzer-frontend.vercel.app/) |
 | **Digital Patient Card** | 🏥 A full-stack Patient Record Management System. | [💻 Repo](https://github.com/AlvinGeorge-AG/DigitalPatientCardBackend) |
 | **GadNEXUS** | 📱 A blog web application for the latest gadgets and tech news. | [💻 Repo](https://github.com/AlvinGeorge-AG/GadNEXUS) |
 
