@@ -37,6 +37,7 @@ I am a **B.Tech Computer Science** student at **Model Engineering College**, Ind
 - 📫 Reach me at: **alvingeorge_@outlook.com**
 - ⚡ **Fun Fact:** I built a [Linux Terminal Command](https://github.com/AlvinGeorge-AG/odin) just to make my life easier with LINUX!
 - 🌐 Portfolio: [alvingeorge-myportfolio.vercel.app](https://alvingeorge-myportfolio.vercel.app/)
+- 💻 LeetCode [alvin-george](https://leetcode.com/u/alvin-george/)
 
 <br/>
 
