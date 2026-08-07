@@ -21,20 +21,13 @@
   </a>
 </p>
 
-<br/>
-
-![Banner](https://raw.githubusercontent.com/AlvinGeorge-AG/AlvinGeorge-AG/main/github-header-banner.png)
-
 ### 🚀 About Me
 > *"Perfection over progress."*
 
 I am a **B.Tech Computer Science** student at **Model Engineering College**, India (graduating 2028). I specialize in building scalable backend systems using **FastAPI** / **Go**, and I'm actively pursuing **DevOps & Cloud Engineering**.
 
-- 🔭 I'm currently building **[Odin](https://github.com/AlvinGeorge-AG/odin)** — a Linux CLI toolkit in Go (Cobra framework).
-- 🌱 I'm currently learning **Docker · Terraform · Ansible · AWS**.
-- 💼 Backend Developer Intern @ **MarkX** — AI-powered Instagram growth analytics.
-- 💬 Ask me about **Python, Go, FastAPI, Docker, and Linux**.
-- 📫 Reach me at: **alvingeorge_@outlook.com**
+- 🌱 I'm currently learning **Docker · Terraform · AWS**.
+- 💬 Ask me about **Linux , Docker**.
 - ⚡ **Fun Fact:** I built a [Linux Terminal Command](https://github.com/AlvinGeorge-AG/odin) just to make my life easier with LINUX!
 - 🌐 Portfolio: [alvingeorge-myportfolio.vercel.app](https://alvingeorge-myportfolio.vercel.app/)
 - 💻 LeetCode [alvin-george](https://leetcode.com/u/alvin-george/)
